@@ -1,0 +1,6 @@
+C:\Projects\FactoryTests\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Projects\FactoryTests\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Projects\FactoryTests\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Projects\FactoryTests\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Projects\FactoryTests\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Projects\FactoryTests\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
